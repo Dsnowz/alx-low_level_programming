@@ -7,7 +7,9 @@
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
+
 {
 	char lower, upper;
 
@@ -18,4 +20,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-}	
+}
