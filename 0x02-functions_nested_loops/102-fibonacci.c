@@ -20,7 +20,7 @@ int main(void)
 		n2 = sum;
 
 		if (count == 49)
-			printf("\n")k;
+			printf("\n");
 		else
 			printf(",");
 	}
