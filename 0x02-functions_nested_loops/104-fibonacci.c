@@ -17,7 +17,7 @@ int main(void)
 	for (c = 0; c < 92; c++)
 	{
 		sum = fib1 + fib2;
-		printf("%lu, "sum);
+		printf("%lu, ", sum);
 
 		fib1 = fib2;
 		fib2 = sum;
@@ -40,7 +40,7 @@ int main(void)
 
 		printf("%lu%lu", half1, half2);
 		if (c != 98)
-			printf(",");
+			printf(", ");
 
 		fib1_half1 = fib2_half1;
 		fib1_half2 = fib2_half2;
