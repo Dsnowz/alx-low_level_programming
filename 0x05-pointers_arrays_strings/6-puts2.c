@@ -10,7 +10,6 @@
 void puts2(char *str)
 {
 	int c;
-	char 1;
 
 	for (c = 0; str[c] != 0; c++)
 	{
