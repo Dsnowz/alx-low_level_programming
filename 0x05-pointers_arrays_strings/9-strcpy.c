@@ -10,8 +10,7 @@
  * Return: non
  */
 
-char *
--strcpy(char *dest, char *src)
+char *_strcpy(char *dest, char *src)
 {
 	int a = 0;
 	int x = 0;
