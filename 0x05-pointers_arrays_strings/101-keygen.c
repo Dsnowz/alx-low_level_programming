@@ -3,7 +3,7 @@
 #include <time>
 
 /**
- * main - a function that generates random valid passwords for 101-crackme
+ * main -This program generates random valid passwords for 101-crackme
  *
  * Return: Always 0.
  */
