@@ -1,17 +1,17 @@
 #inlude "main.h"
 
 /**
- * _strcat - a function ...
+ * _strncat - a function ...
  * @dest: the chaine
  * @src: the chaine
  * @n: the number
  *
  * Return: 1 or 0
  */
-char *_strncat(char *dest, char *src, int n)
+char	*_strncat(char *dest, char *src, int n)
 {
-	int i;
-	int j;
+	int	i;
+	int	j;
 
 	i = 0;
 	j = 0;
