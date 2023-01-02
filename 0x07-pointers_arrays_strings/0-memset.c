@@ -1,5 +1,5 @@
 /**
- * _memset - function fills the first n bytes of the memory area pointed to by s with the constant byte b
+ * _memset - a function ...
  * @S: the chaine
  * @b: the char
  * @n: the int
