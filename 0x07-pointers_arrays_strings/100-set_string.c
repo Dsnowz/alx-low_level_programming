@@ -1,4 +1,4 @@
-#include <string.h>
+#include "main.h"
 
 /**
  * set_string - a function ...
