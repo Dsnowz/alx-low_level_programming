@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
  * _sqrt -function
  * @n: the number
@@ -8,7 +8,7 @@
 
 int _sqrt(int n, int i)
 {
-	if (i * > n)
+	if (i * i > n)
 		return (-1);
 	if (i * i == n)
 		return (i);
